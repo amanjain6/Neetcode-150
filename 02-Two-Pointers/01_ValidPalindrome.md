@@ -14,21 +14,23 @@ Given a string s, return `true` if it is a palindrome, or `false` otherwise.
 
 ### Examples
 
+### Examples
+
 **Example 1:**  
 **Input:** `s = "A man, a plan, a canal: Panama"`  
-**Output:** `true`
+**Output:** `true`  
 **Explanation:** "amanaplanacanalpanama" is a palindrome.
 
 **Example 2:**  
-**Input:** `nums = [1,2,3,4]`  
-**Output:** `false`
+**Input:** `s = "race a car"`  
+**Output:** `false`  
 **Explanation:** "raceacar" is not a palindrome.
 
 **Example 3:**  
-**Input:** `nums = [1,1,1,3,3,4,3,2,4,2]`  
-**Output:** `true`
-**Explanation:** s is an empty string "" after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
+**Input:** `s = " "`  
+**Output:** `true`  
+**Explanation:** After removing non-alphanumeric characters, s is an empty string.  
+An empty string is considered a valid palindrome.
 
 ---
 
