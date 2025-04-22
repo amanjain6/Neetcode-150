@@ -6,4 +6,4 @@
 
 | # | Problem | Solution | Difficulty | Category |
 |--|---------|----------|------------|----------|
-| 1 | Contains Duplicate | [Markdown](01-Arrays-and-Hashing/01_ContainsDuplicate.md) | Easy | Arrays & Hashing |
+| 1 | Contains Duplicate | [Link](01-Arrays-and-Hashing/01_ContainsDuplicate.md) | Easy | Arrays & Hashing |
