@@ -1,4 +1,4 @@
-# 125. Contains Duplicate
+# 125. Valid Palindrome
 
 **Difficulty**: Easy  
 🔗 [Leetcode Problem](https://leetcode.com/problems/valid-palindrome/)
